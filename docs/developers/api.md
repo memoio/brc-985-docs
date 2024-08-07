@@ -15,7 +15,7 @@ Get the challenge information that requires the user's signature.
 **Request Address**
 
 ```
-/v1/indexer/blockchain/info
+/v1/btc/challenge
 ```
 
 **Request Method**
